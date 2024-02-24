@@ -19,3 +19,7 @@ this is something I want to have exist.
 
 **Ideal solution:** a progressive web app that allows all of the above
 Building? Nope (not yet at least). 
+
+
+### Idea #3
+a social media app where there are no likes, followers, or nothing: Just thoughts and ideas which people may publish and consume: limits to 10 mins per user per day. this is weird idk.
