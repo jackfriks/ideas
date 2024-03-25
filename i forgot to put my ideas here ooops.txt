@@ -1,3 +1,4 @@
 every tick in this file is me marking that ive coded on a repo but havent pushed the changes, since i want my green contribution score to be all cool and green ive made these ticks as commits.
 
 tick
+tick
