@@ -23,3 +23,7 @@ Building? Nope (not yet at least).
 
 ### Idea #3
 a social media app where there are no likes, followers, or nothing: Just thoughts and ideas which people may publish and consume: limits to 10 mins per user per day. this is weird idk.
+
+
+### Idea #4
+a procrastination tracker app where you log each time you procrastinate on what you really want to get done and set goals and targets: What gets tracked gets improved. Increase mindfullness. Users set their main missions and what they want out of life and then log the things they procrastinate with (Scrolling, side tasks, watching videos, endless researching but never doing, etc)
